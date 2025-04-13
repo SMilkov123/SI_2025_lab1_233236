@@ -1,0 +1,15 @@
+*   3080c90 (HEAD -> master, origin/master, origin/HEAD) Merge branch '7-count-tasks-per-category'
+|\
+| * 086c451 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) Implement CountTasksPerCategory
+* |   9e8bd95 Merge pull request #11 from SMilkov123/4-sort-tasks-by-priority
+|\ \
+| * | b06d875 (origin/4-sort-tasks-by-priority, 4-sort-tasks-by-priority) Implement SortTasksByPriority
+| |/
+* |   26474e6 Merge pull request #10 from SMilkov123/2-find-all-completed-tasks
+|\ \
+| |/
+|/|
+| * 5d99de8 (origin/2-find-all-completed-tasks, 2-find-all-completed-tasks) Implement FindAllCompletedTasks
+|/
+* 406568f Add starter code
+* 86818c0 Initial commit
